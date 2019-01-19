@@ -2,9 +2,9 @@
 Following the Udemy basic course
 
 ## Udemy
-This cource is normally $89.99. There were some promotions at the beginning of 2019.
-
 [Mastering RTOS: Hands-on FreeRTOS and STM32Fx with Debugging](https://www.udemy.com/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx)
+
+This course normally costs $89.99. There were some promotions at the beginning of 2019.
 
 ## Hardware
 ST Microelectronics Nucleo STM32F413ZH.
