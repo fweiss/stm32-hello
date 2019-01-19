@@ -2,10 +2,12 @@
 Following the Udemy basic course
 
 ## Udemy
-Mastering RTOS: Hands-on FreeRTOS and STM32Fx with Debugging
+This cource is normally $89.99. There were some promotions at the beginning of 2019.
+
+[Mastering RTOS: Hands-on FreeRTOS and STM32Fx with Debugging](https://www.udemy.com/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx)
 
 ## Hardware
-ST Microelectronics Nucleo STM32F412ZH.
+ST Microelectronics Nucleo STM32F413ZH.
 
 ## Software
 See Udemy course.
@@ -34,7 +36,7 @@ The following need to be considered:
 - which AHP (usually 1) the GPIO clock enable
 - which AF function to assign for the pins
 
-The following documents supply the information:
+The following documents supplied the information:
 - User Manual - 6.9 STLink info
 - Datasheet - 2.1 Figure 4 Block Diagram
 - Datasheet - 4.9 Table 12 Alternate Functions
@@ -44,4 +46,4 @@ At first Putty wouldn't connect when clicking the Open button in the Serial tab.
 Needed to correct the following:
 
 - in Device Manager, open the COM properties and make sure the Port Settings are correct
-- in Putty, in the Session tab, make sure Serial is selected
+- in Putty, in the Session tab, make sure Connection type Serial is selected
